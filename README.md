@@ -1,2 +1,2 @@
 # nvim-config
-My current Neovim config files.
+Current neovim config files
